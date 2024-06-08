@@ -1,2 +1,2 @@
 # hello-world-api
-Sample app for kind deployment.
+Sample app for kind k8s deployment.
