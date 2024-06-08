@@ -4,7 +4,7 @@ metadata:
   name: helloworld-svc
 spec:
   selector:
-    app: helloworld
+    app: helloworld-api
   type: NodePort
   ports:
     - name: http
